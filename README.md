@@ -3,6 +3,7 @@
 2048 played by the local `nimble` classifier, with a live web visualiser.
 
 Run:  `uv run play.py [--port 8048] [--delay 0.15] [--model nimble]`
+
 Open: http://localhost:8048
 
 ![](game.png)
